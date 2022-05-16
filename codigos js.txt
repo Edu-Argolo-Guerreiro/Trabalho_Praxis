@@ -1,0 +1,31 @@
+script.js
+!
+
+script: src"./"
+var x = 1 (cod. todo) - o menos útil!
+let y = 2 (nível que está) - O let deixa escapar de variaveis pequenas;
+const z = 3 (constante) - sempre que possível use const!!
+
+
+console.log(ex: soma) em todos.
+
+let soma = x + y
+let subtracao = x-y
+let multiplicao = x*y
+let divisao = x/y
+
+let palavra = "praxis" sempre contendo aspas! //String
+let logica = true - verdadeiro //Boolean
+let falso = false //Boolean
+
+let casa = [] //array - conjunto de dados.
+let andar 4 = [123,321,213]; andar4[3] = 456
+
+if(condicao) {}
+if(x+y == 10)
+
+else if{ (condicionalmente) }
+
+for(let i; i <= 14; i=i+1 ){console.log (i)}
+
+comentário = //
